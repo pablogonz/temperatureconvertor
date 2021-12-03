@@ -1,0 +1,7 @@
+C:\Users\pjgon\Desktop\temperatureconver\bin\Debug\temperatureconver.exe.config
+C:\Users\pjgon\Desktop\temperatureconver\bin\Debug\temperatureconver.exe
+C:\Users\pjgon\Desktop\temperatureconver\bin\Debug\temperatureconver.pdb
+C:\Users\pjgon\Desktop\temperatureconver\obj\Debug\temperatureconver.csproj.AssemblyReference.cache
+C:\Users\pjgon\Desktop\temperatureconver\obj\Debug\temperatureconver.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\temperatureconver\obj\Debug\temperatureconver.exe
+C:\Users\pjgon\Desktop\temperatureconver\obj\Debug\temperatureconver.pdb
